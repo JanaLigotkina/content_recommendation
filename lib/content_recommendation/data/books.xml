@@ -1,0 +1,62 @@
+<books>
+    <book>
+        <title>The Shining</title>
+        <year>1980</year>
+        <creator>Stephen King</creator>
+    </book>
+    <book>
+        <title>Carrie</title>
+        <year>1974</year>
+        <creator>Stephen King</creator>
+    </book>
+    <book>
+        <title>The Stand</title>
+        <year>1978</year>
+        <creator>Stephen King</creator>
+    </book>
+    <book>
+        <title>A Clockwork Orange</title>
+        <year>1962</year>
+        <creator>Anthony Burgess</creator>
+    </book>
+    <book>
+        <title>The Wanting Seed</title>
+        <year>1962</year>
+        <creator>Anthony Burgess</creator>
+    </book>
+    <book>
+        <title>A Dead Man in Deptford</title>
+        <year>1993</year>
+        <creator>Anthony Burgess</creator>
+    </book>
+    <book>
+        <title>Full Metal Jacket</title>
+        <year>1979</year>
+        <creator>Gustav Hasford</creator>
+    </book>
+    <book>
+        <title>The Phantom Blooper</title>
+        <year>1990</year>
+        <creator>Gustav Hasford</creator>
+    </book>
+    <book>
+        <title>A Gypsy Good Time</title>
+        <year>1992</year>
+        <creator>Gustav Hasford</creator>
+    </book>
+    <book>
+        <title>The Short-Timers</title>
+        <year>1979</year>
+        <creator>Gustav Hasford</creator>
+    </book>
+    <book>
+        <title>1984</title>
+        <year>1949</year>
+        <creator>George Orwell</creator>
+    </book>
+    <book>
+        <title>Animal Farm</title>
+        <year>1945</year>
+        <creator>George Orwell</creator>
+    </book>
+</books>

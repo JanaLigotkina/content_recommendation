@@ -1,0 +1,157 @@
+<movies>
+    <movie>
+        <title>The Shining</title>
+        <year>1980</year>
+        <creator>Stanley Kubrick</creator>
+    </movie>
+    <movie>
+        <title>A Clockwork Orange</title>
+        <year>1971</year>
+        <creator>Stanley Kubrick</creator>
+    </movie>
+    <movie>
+        <title>Full Metal Jacket</title>
+        <year>1987</year>
+        <creator>Stanley Kubrick</creator>
+    </movie>
+    <movie>
+        <title>Taxi Driver</title>
+        <year>1976</year>
+        <creator>Martin Scorsese</creator>
+    </movie>
+    <movie>
+        <title>Raging Bull</title>
+        <year>1980</year>
+        <creator>Martin Scorsese</creator>
+    </movie>
+    <movie>
+        <title>Goodfellas</title>
+        <year>1990</year>
+        <creator>Martin Scorsese</creator>
+    </movie>
+    <movie>
+        <title>The Departed</title>
+        <year>2006</year>
+        <creator>Martin Scorsese</creator>
+    </movie>
+    <movie>
+        <title>Memento</title>
+        <year>2000</year>
+        <creator>Christopher Nolan</creator>
+    </movie>
+    <movie>
+        <title>The Dark Knight</title>
+        <year>2008</year>
+        <creator>Christopher Nolan</creator>
+    </movie>
+    <movie>
+        <title>Inception</title>
+        <year>2010</year>
+        <creator>Christopher Nolan</creator>
+    </movie>
+    <movie>
+        <title>Dunkirk</title>
+        <year>2017</year>
+        <creator>Christopher Nolan</creator>
+    </movie>
+    <movie>
+        <title>Jaws</title>
+        <year>1975</year>
+        <creator>Steven Spielberg</creator>
+    </movie>
+    <movie>
+        <title>E.T. the Extra-Terrestrial</title>
+        <year>1982</year>
+        <creator>Steven Spielberg</creator>
+    </movie>
+    <movie>
+        <title>Jurassic Park</title>
+        <year>1993</year>
+        <creator>Steven Spielberg</creator>
+    </movie>
+    <movie>
+        <title>Saving Private Ryan</title>
+        <year>1998</year>
+        <creator>Steven Spielberg</creator>
+    </movie>
+    <movie>
+        <title>Pulp Fiction</title>
+        <year>1994</year>
+        <creator>Quentin Tarantino</creator>
+    </movie>
+    <movie>
+        <title>Kill Bill</title>
+        <year>2003</year>
+        <creator>Quentin Tarantino</creator>
+    </movie>
+    <movie>
+        <title>Inglourious Basterds</title>
+        <year>2009</year>
+        <creator>Quentin Tarantino</creator>
+    </movie>
+    <movie>
+        <title>Django Unchained</title>
+        <year>2012</year>
+        <creator>Quentin Tarantino</creator>
+    </movie>
+    <movie>
+        <title>Se7en</title>
+        <year>1995</year>
+        <creator>David Fincher</creator>
+    </movie>
+    <movie>
+        <title>Fight Club</title>
+        <year>1999</year>
+        <creator>David Fincher</creator>
+    </movie>
+    <movie>
+        <title>The Social Network</title>
+        <year>2010</year>
+        <creator>David Fincher</creator>
+    </movie>
+    <movie>
+        <title>Gone Girl</title>
+        <year>2014</year>
+        <creator>David Fincher</creator>
+    </movie>
+    <movie>
+        <title>Unforgiven</title>
+        <year>1992</year>
+        <creator>Clint Eastwood</creator>
+    </movie>
+    <movie>
+        <title>Million Dollar Baby</title>
+        <year>2004</year>
+        <creator>Clint Eastwood</creator>
+    </movie>
+    <movie>
+        <title>Mystic River</title>
+        <year>2003</year>
+        <creator>Clint Eastwood</creator>
+    </movie>
+    <movie>
+        <title>Gran Torino</title>
+        <year>2008</year>
+        <creator>Clint Eastwood</creator>
+    </movie>
+    <movie>
+        <title>Psycho</title>
+        <year>1960</year>
+        <creator>Alfred Hitchcock</creator>
+    </movie>
+    <movie>
+        <title>Rear Window</title>
+        <year>1954</year>
+        <creator>Alfred Hitchcock</creator>
+    </movie>
+    <movie>
+        <title>Vertigo</title>
+        <year>1958</year>
+        <creator>Alfred Hitchcock</creator>
+    </movie>
+    <movie>
+        <title>North by Northwest</title>
+        <year>1959</year>
+        <creator>Alfred Hitchcock</creator>
+    </movie>
+</movies>

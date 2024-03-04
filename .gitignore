@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.pid
+*.lock
+/.bundle
+/vendor/bundle
+/.yardoc
+/coverage/
+/.idea
+/.vscode
