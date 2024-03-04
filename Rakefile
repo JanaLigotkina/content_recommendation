@@ -1,10 +1,11 @@
+# frozen_string_literal: true
+
 require 'rake/testtask'
 require 'bundler/gem_tasks'
+require 'rspec/core/rake_task'
 
-Rake::TestTask.new do |t|
-  t.libs << 'test'
-  t.test_files = FileList['test/*_spec.rb']
-  t.verbose = true
+RSpec::Core::RakeTask.new(:spec) do |t|
+  t.pattern = 'test/*spec.rb'
 end
 
-task default: :test
+task default: :spec

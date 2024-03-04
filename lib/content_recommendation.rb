@@ -11,18 +11,11 @@ require_relative 'content_recommendation/entities/content'
 require_relative 'content_recommendation/entities/movie'
 require_relative 'content_recommendation/entities/book'
 
-require 'bundler/inline'
-
-gemfile do
-  source 'https://rubygems.org'
-
-  ruby '>= 3.0.0'
-
-  gem 'rainbow'
-  gem 'rexml'
-  gem 'rspec'
-  gem 'thor'
-end
+require 'rainbow'
+require 'rexml'
+require 'rspec'
+require 'thor'
+# require 'bundler/setup'
 
 class RecommendationCLI < Thor
   INVALID_TYPE_MSG = "Invalid type of recommendation".freeze

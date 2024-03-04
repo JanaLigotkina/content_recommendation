@@ -2,6 +2,7 @@
 *.tmp
 *.pid
 *.lock
+*.gem
 /.bundle
 /vendor/bundle
 /.yardoc
