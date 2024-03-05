@@ -35,6 +35,14 @@ RecommendationCLI.start(['recommend', 'movies'])
 RecommendationCLI.start(['recommend', 'books'])
 ```
 
+### Testing
+
+To run tests, execute:
+```shell
+$ rake
+```
+
+
 ### Example
 
 ```shell
